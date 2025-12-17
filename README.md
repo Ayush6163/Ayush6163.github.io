@@ -69,14 +69,6 @@ Conceptualized a space-deployable origami-based solar heat shield controlled usi
 **Bachelor of Engineering – Computer Science and Engineering**  
 Chandigarh University  
 Expected Graduation: August 2026  
-CGPA: 6.8 / 10
-
----
-
-## Mentorship
-**Dr. Yogesh**  
-Associate Professor, Chitkara University  
-Research mentorship in AI-driven autonomous and communication systems
 
 ---
 
