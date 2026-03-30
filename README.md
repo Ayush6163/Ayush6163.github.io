@@ -75,4 +75,4 @@ Expected Graduation: August 2026
 ## Contact
 I am actively seeking **Pre-Doctoral and PhD opportunities (Fall 2026)** in Artificial Intelligence, Cyber-Physical Systems, and Secure Autonomous Infrastructure.
 
-📧 Email: ayusharyan888@gmail.com
+📧 Email: ayusharyan.cs@gmail.com
